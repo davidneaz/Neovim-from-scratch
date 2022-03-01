@@ -1,16 +1,16 @@
 # Neovim (not really) from scratch
 
-My fork of [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch.git)
+My fork of [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch.git). This fork is really only made for my needs, you may be better off starting with the original project.
 
-To use this as is 
+To use my fork as is 
 
 * Save your current ~/.config/nvim directory somewhere else
 * Clone this repo into your ~/.config/nvim directory with
 ```
-git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+git clone https://github.com/davidneaz/Neovim-from-scratch.git ~/.config/nvim
 ```
 
-## Original Instructions
+## Original Instructions from Neovim-from-scratch
 
 Each video will be associated with a branch so checkout the one you are interested in, you can follow along with this [playlist](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ).
 
