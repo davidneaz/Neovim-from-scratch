@@ -1,15 +1,21 @@
-# Neovim from scratch
+# Neovim (not really) from scratch
 
-Each video will be associated with a branch so checkout the one you are interested in, you can follow along with this [playlist](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ).
+My fork of [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch.git)
 
-## Try out this config
+To use this as is 
 
-Make sure to remove or move your current `nvim` directory
-
-**IMPORTANT** Requires [Neovim v0.6.0](https://github.com/neovim/neovim/releases/tag/v0.6.0) or [Nightly](https://github.com/neovim/neovim/releases/tag/nightly). 
+* Save your current ~/.config/nvim directory somewhere else
+* Clone this repo into your ~/.config/nvim directory with
 ```
 git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
 ```
+
+## Original Instructions
+
+Each video will be associated with a branch so checkout the one you are interested in, you can follow along with this [playlist](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ).
+
+
+**IMPORTANT** Requires [Neovim v0.6.0](https://github.com/neovim/neovim/releases/tag/v0.6.0) or [Nightly](https://github.com/neovim/neovim/releases/tag/nightly). 
 
 Run `nvim` and wait for the plugins to be installed 
 
